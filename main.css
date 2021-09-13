@@ -1,0 +1,21 @@
+html {
+  background-color:dimgray;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  color:maroon;
+  font-family: Impact, sans-serif;
+  font-size: 40px;
+  margin: 30px;;
+  }
+
+.choose{
+  display:flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-around;
+  padding: 10px;
+  
+}
